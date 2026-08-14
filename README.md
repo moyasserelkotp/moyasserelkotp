@@ -1,78 +1,238 @@
-<h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mohamed_Yasser </h1>
-<p align="center">Flutter Developer And Data Scientist</p>
+<div align="center">
 
-<p align='center'> 
-  <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img height="50" src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835-1536x1536.png"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/people/Mohamed-Yasser/pfbid0wuc31kAg7oq7VudKk8q7s6JHSkCXrqZBXTtkRhY6EDid3sK9cuMs63fE8KzKW7pTl/?mibextid=ZbWKwL"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;&nbsp;
+# 👋 Hi, I'm Mohamed Yasser
+
+### Data Scientist · Machine Learning · Artificial Intelligence
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/moyasserelkotp">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-
-<h2 align="center">Languages and Tools:</h2>
-
-<p align="center">
-
-<!-- Programming -->
-
-<code><img alt="Python" title="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> <code><img alt="SQL" title="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-
-<!-- Data Science -->
-
-<code><img alt="NumPy" title="NumPy" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code> <code><img alt="Pandas" title="Pandas" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code> <code><img alt="Scikit-learn" title="Scikit-learn" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"></code> <code><img alt="Matplotlib" title="Matplotlib" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"></code>
-
-<!-- Machine Learning & Deep Learning -->
-
-<code><img alt="TensorFlow" title="TensorFlow" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code> <code><img alt="PyTorch" title="PyTorch" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code> <code><img alt="Keras" title="Keras" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"></code> <code><img alt="Hugging Face" title="Hugging Face" height="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></code>
-
-<!-- AI / LLM -->
-
-<code><img alt="LangChain" title="LangChain" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg"></code>
-
-<!-- Databases -->
-
-<code><img alt="PostgreSQL" title="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code> <code><img alt="MongoDB" title="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-
-<!-- Backend & Deployment -->
-
-<code><img alt="FastAPI" title="FastAPI" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code> <code><img alt="Docker" title="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-
-<!-- Tools -->
-
-<code><img alt="Git" title="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code> <code><img alt="GitHub" title="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-
-<!-- Vector Databases -->
-
-<code><img alt="Qdrant" title="Qdrant" height="40" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"></code>
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=moyasserelkotp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
-<hr>
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moyasserelkotp\&theme=react-dark\&hide_border=true\&color=BDDFFF\&line=6E93B5\&point=BDDFFF)](https://github.com/moyasserelkotp)
-
-<br/>
-
-
-## Watch my contribution graph get eaten by the snake 🐍
-
-<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![memo snake gif](https://github.com/j-j-gajjar/j-j-gajjar/blob/output/github-contribution-grid-snake-dark.svg)   
-
-### Show some ❤️ by starring some of the repositories!
-
-
 
 </div>
 
+---
 
-<br/>
+## 🚀 About Me
+
+I'm a **Data Science & AI graduate** passionate about building practical machine learning and artificial intelligence solutions.
+
+* 🧠 Focused on **Machine Learning, Deep Learning & Generative AI**
+* 📊 Experienced with **Data Analysis, Predictive Analytics & Statistical Analysis**
+* 🤖 Building applications using **LLMs, NLP, RAG & AI Agents**
+* 🐍 Working primarily with **Python & SQL**
+* ⚙️ Interested in **MLOps, Model Deployment & AI Engineering**
+* 🚀 Always learning and building real-world AI projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Data Science
+
 <p align="center">
-    <img width="49.5%" src="https://github-readme-stats.zohan.tech/api?username=moyasserelkotp&show_icons=true&theme=dracula&line_height=27" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas"/>
 </p>
+
+### 🤖 Machine Learning & Deep Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="50" alt="OpenCV"/>
+</p>
+
+### 🧠 Generative AI & NLP
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs"/>
+
+</p>
+
+### 🗄️ Databases & Vector Search
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Qdrant-Dark?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-1877F2?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-FF6F61?style=for-the-badge" alt="ChromaDB"/>
+
+</p>
+
+### ⚙️ Backend, MLOps & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge" alt="MLOps"/>
+<img src="https://img.shields.io/badge/Model%20Deployment-2E7D32?style=for-the-badge" alt="Model Deployment"/>
+
+</p>
+
+---
+
+## 📌 Featured Areas
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Science
+
+* Data Analysis
+* Exploratory Data Analysis
+* Statistical Analysis
+* Feature Engineering
+* Predictive Analytics
+* Data Visualization
+* Machine Learning
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+
+* Deep Learning
+* NLP
+* Transformers
+* LLM Applications
+* RAG Systems
+* AI Agents
+* Generative AI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Machine Learning Engineering
+
+* Model Deployment
+* FastAPI
+* Docker
+* Model Monitoring
+* Data Drift Detection
+* Automated Retraining
+* MLOps
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 AI Applications
+
+* Recommendation Systems
+* Customer Churn Prediction
+* Document Q&A
+* Intelligent Assistants
+* AutoML
+* Multi-Agent Systems
+* Business AI Solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=moyasserelkotp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyasserelkotp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=moyasserelkotp&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moyasserelkotp&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/moyasserelkotp/moyasserelkotp/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm interested in **Data Science, Machine Learning, Generative AI and AI Engineering opportunities**.
+
+Feel free to explore my repositories and connect with me.
+
 <br>
 
+<a href="https://www.linkedin.com/in/mohamed-yasser-bb9b3b272/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
+<a href="https://github.com/moyasserelkotp">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
+</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoyasserelkotp%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://jaygajjar.tk)
+---
 
+<div align="center">
 
+### ⭐ If you find my projects useful, consider giving them a star!
+
+</div>
