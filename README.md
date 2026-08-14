@@ -63,29 +63,87 @@ I enjoy taking an idea from **raw data → machine learning model → API → de
 
 ## 🎯 What I'm Working On
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   📊 Data Science                                           │
-│      └── EDA • Statistics • Feature Engineering             │
-│                                                             │
-│   🤖 Machine Learning                                       │
-│      └── Classification • Regression • Clustering           │
-│                                                             │
-│   🧠 Deep Learning                                          │
-│      └── Neural Networks • CNN • RNN • Transformers          │
-│                                                             │
-│   💬 NLP & Generative AI                                    │
-│      └── LLMs • Embeddings • RAG • Prompt Engineering        │
-│                                                             │
-│   🤝 AI Agents                                              │
-│      └── LangGraph • Tool Calling • Multi-Agent Systems     │
-│                                                             │
-│   ⚙️ MLOps                                                  │
-│      └── APIs • Docker • Monitoring • Deployment             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📊 Data Science
+
+EDA  
+Statistics  
+Feature Engineering  
+Data Visualization  
+Predictive Analytics
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 Machine Learning
+
+Classification  
+Regression  
+Clustering  
+Model Evaluation  
+Hyperparameter Tuning
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 Deep Learning
+
+Neural Networks  
+CNN  
+RNN  
+Transformers  
+PyTorch • TensorFlow
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 💬 NLP & Generative AI
+
+LLMs  
+Embeddings  
+RAG  
+Prompt Engineering  
+Transformers
+
+</td>
+
+<td align="center">
+
+### 🤝 AI Agents
+
+LangGraph  
+Tool Calling  
+AI Agents  
+Multi-Agent Systems  
+Agentic Workflows
+
+</td>
+
+<td align="center">
+
+### ⚙️ MLOps
+
+FastAPI  
+Docker  
+Model Monitoring  
+Data Drift  
+Deployment
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
