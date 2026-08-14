@@ -8,28 +8,49 @@
 
 
 <h2 align="center">Languages and Tools:</h2>
-<p align='center'>
-<code><img alt="Flutter" title="Flutter" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img alt="dart" title="dart" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img alt="r" title="javascript" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_yIlE5zV-OMNa7TUOumjxp0n3mqjtppTTOzhTwcIt44zdDFKoJpj-y_zCdOMS0v4kuM&usqp=CAU"></code>
-<code><img alt="php" title="php" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img alt="TensorFlow" title="react" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFsc-BDEWoD7zvDFTQFZdhi9KioGBsCVRtUW8szNwM2Lc8d-75ast2Z5JCW9dtLv0grbs&usqp=CAU"></code>
-<code><img alt="sklearn" title="sklearn" height="20" src="https://anderfernandez.com/wp-content/uploads/2021/10/Tutorial-Sklearn.jpg"></code>
-<code><img alt="firebase" title="firebase" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/firebase.png?raw=true"></code>
-<code><img alt="github" title="github" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/github.png?raw=true"></code>
-<code><img alt="python" title="python" height="20" src="https://banner2.cleanpng.com/20240131/oih/transparent-python-logo-python-icon-symbolizes-flexibility-1710892006866.webp"></code>
-<code><img alt="pandas" title="pandas" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKmkBqviJKR3yCj5F251eRodlrKmubG6ey7pJMGGLMs2CF23gBT_4QevLGRVUjcSXSkQ&usqp=CAU"></code>
-<code><img alt="mongodb" title="mongodb" height="20" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_128x128.png"></code>
-<code><img alt="C++" title="C++" height="20" src="https://user-images.githubusercontent.com/11183158/43805223-f23c1250-9a6c-11e8-9677-a45e08df2d7c.png"></code>
-<code><img alt="material.io" title="material.io" height="20" src="https://mervick.github.io/material-design-icons/img/logo.svg"></code>
-<code><img alt="material-ui" title="material-ui" height="25" src="https://mui.com/static/logo.svg"></code>
+
+<p align="center">
+
+<!-- Programming -->
+
+<code><img alt="Python" title="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> <code><img alt="SQL" title="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+
+<!-- Data Science -->
+
+<code><img alt="NumPy" title="NumPy" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code> <code><img alt="Pandas" title="Pandas" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code> <code><img alt="Scikit-learn" title="Scikit-learn" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"></code> <code><img alt="Matplotlib" title="Matplotlib" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"></code>
+
+<!-- Machine Learning & Deep Learning -->
+
+<code><img alt="TensorFlow" title="TensorFlow" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code> <code><img alt="PyTorch" title="PyTorch" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code> <code><img alt="Keras" title="Keras" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"></code> <code><img alt="Hugging Face" title="Hugging Face" height="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></code>
+
+<!-- AI / LLM -->
+
+<code><img alt="LangChain" title="LangChain" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg"></code>
+
+<!-- Databases -->
+
+<code><img alt="PostgreSQL" title="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code> <code><img alt="MongoDB" title="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+
+<!-- Backend & Deployment -->
+
+<code><img alt="FastAPI" title="FastAPI" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code> <code><img alt="Docker" title="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+
+<!-- Tools -->
+
+<code><img alt="Git" title="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code> <code><img alt="GitHub" title="GitHub" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+
+<!-- Vector Databases -->
+
+<code><img alt="Qdrant" title="Qdrant" height="40" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"></code>
+
+</p>
+
 <hr>
-    
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moyasserelkotp&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/moyasserelkotp)
 
-
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moyasserelkotp\&theme=react-dark\&hide_border=true\&color=BDDFFF\&line=6E93B5\&point=BDDFFF)](https://github.com/moyasserelkotp)
 
 <br/>
+
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
